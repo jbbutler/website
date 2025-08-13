@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 30c4fa87-ed05-485a-80fc-59ec5c9c6545
+  title: Jimmy Butler
+  # description:
+  # keywords: []
+  authors: Jimmy Butler
+  github: https://github.com/jbbutler/website
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
