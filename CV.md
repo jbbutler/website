@@ -1,6 +1,4 @@
-# James Butler
-**Email:** butlerj@berkeley.edu | **GitHub:** [github.com/jbbutler](https://github.com/jbbutler)
-
+# CV
 ---
 
 ## Education
