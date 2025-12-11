@@ -10,6 +10,7 @@ project:
     - file: research.md
     - file: teaching.md
     - file: CV.md
+    - file: contact.md
     
 site:
   template: book-theme
