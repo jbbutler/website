@@ -1,6 +1,8 @@
 # CV
 ---
 
+For a downloadable pdf version, see [here](https://drive.google.com/file/d/1COZgxMUF6YFBAKwGRP_yVJ0RRsWxrO2Z/view?usp=sharing).
+
 ## Education
 
 **University of California, Berkeley**
