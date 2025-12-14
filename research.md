@@ -8,7 +8,7 @@ I am broadly interested in applications of statistics, data science, and math to
 
 Many extreme weather and climate events are impactful not just due to extreme conditions in a single climate variable, but rather extreme conditions in multiple variables that co-occur and amplify the impact of any individual variable. For example, in heat waves, excessive temperatures are of course hazardous to human health, but simultaneously high levels of humidity can drastically increase human mortality. Further, wildfires are particularly dangerous when conditions are not just dry, but also simultaneously windy. Building on previous statistical work to estimate rare bivariate events given data from an unknown probability distribution, we propose a fully non-parametric uncertainty quantification procedure to construct confidence regions for such rare events, providing a more complete assessment of the risk of extreme bivariate events and informing decision-making surrounding climate risk.
 
-+ [Poster presented at AGU23](https://zenodo.org/records/17926399)
++ AGU23, [poster](https://doi.org/10.5281/zenodo.17926399)
 + Preprint coming Spring 2026.
 
 ## Linking Antarctic Atmoshperic River Characteristics with Landfalling Impacts
