@@ -2,7 +2,7 @@
 ---
 *For a downloadable pdf version, see [here](https://drive.google.com/file/d/16rGE9Yg4JGEVEhzLl-ptPBpLayvX6Roi/view?usp=drive_link).*
 
-*Education*														  
+## Education													  
 **University of California, Berkeley**  
     *Statistics (PhD Candidate),* Begin August 2021, Expected May 2026  
     *Advisors:* Jon McAuliffe (*Department of Statistics, UC Berkeley; The Voleon Group*),   
@@ -11,7 +11,7 @@
 **The College, University of Chicago**  
     *Physics, Statistics* *(BA; double major)*, Begin September 2017, Graduated June 2021
 
-*Research Projects*												  
+## Research Projects												  
 ***\***ongoing*  
 **CASCADE Group, Lawrence Berkeley National Laboratory (LBNL)**  
      *Quantifying uncertainty in the rarity of extreme multivariate weather and climate events**\****  
@@ -66,7 +66,7 @@
       *Fabricating nanoscale devices to measure signatures of superconductivity*  
        	*People: Patrick Krantz, Venkat Chandrasekhar;* (6/2019 – 8/2019)
 
-*Leadership and Service*											  
+## Leadership and Service										  
 **Statistics Graduate Student Association (SGSA), UC Berkeley,** Berkeley, CA  
       *Co-President, May 2023 \- May 2024*
 
@@ -86,7 +86,7 @@
 * Helped strategize lesson plans for students needing extra assistance in building their math skills  
 * Lead small-group tutoring sessions after school for 8th grade students taking Chicago’s Selective Enrollment test (used for admission into the city’s top-rated public high schools)
 
-*Teaching*														  
+## Teaching														  
 **University of California, Berkeley**
 
 * *Collaborative and Reproducible Data Science (Stat 159/259)*; TA/GSI; Fall 2025, [course site](https://stat159.berkeley.edu/fall-2025/)  
@@ -101,12 +101,12 @@
 
 * *Statistical Theory and Methods I (STAT 24400\)*; Grader; Winter 2021
 
-*Papers**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_***
+## Papers
 
 * Kovacs, E., et al. (2022). Validating Synthetic Galaxy Catalogs for Dark Energy Science in the LSST Era. *The Open Journal of Astrophysics*, 5\. [https://doi.org/10.21105/astro.2110.03769](https://doi.org/10.21105/astro.2110.03769)  
 * Madireddy, S., Li, N., Ramachandra, N., **Butler, J.**, Balaprakash, P., Habib, S., Heitmann, K. (2019). A Modular Deep Learning Pipeline for Galaxy-Scale Strong Gravitational Lens Detection and Modeling. *arXiv preprint*. [https://doi.org/10.48550/arXiv.1911.03867](https://doi.org/10.48550/arXiv.1911.03867)
 
-*Presentations*													
+## Presentations												
 
 * Butler J., Maclennan, M., Pérez, F., McAuliffe, J. 2025\. *Cloud-based Workflows for Antarctic Atmospheric Rivers: Successes and Challenges.* (Oral) AGU Fall Meeting 2025\. ([Zenodo](https://doi.org/10.5281/zenodo.17926811))  
 * Butler J., Maclennan, M., Pérez, F., McAuliffe, J. 2025\. *Linking Antarctic Atmospheric River Characteristics with Their Landfalling Impacts.* (Oral) AGU Fall Meeting 2025\. ([Zenodo](https://doi.org/10.5281/zenodo.17926794))  
@@ -118,7 +118,7 @@
 * Butler, J. 2019\. *Probing the Nature of Superconductivity in Mechanically-Exfoliated Thin Film MoS2*. (Poster). University of Chicago’s 6th Annual Undergraduate Research Symposium.  
 * Butler, J. 2019\. *Probing the Nature of Superconductivity in Mechanically-Exfoliated Thin Film MoS2*. (Talk). International Institute of Nanotechnology REU Closing Symposium.
 
-*Honors*														  
+## Honors														  
 **H2H8 Research Grant Awardee**, 2025  
 **Two Sigma PhD Fellowship Recipient**, 2024  
 **Magna Cum Laude**, The College, University of Chicago, 2021  
