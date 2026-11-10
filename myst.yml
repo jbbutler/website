@@ -14,3 +14,4 @@ project:
     
 site:
   template: book-theme
+  style: ./style.css

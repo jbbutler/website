@@ -1,0 +1,33 @@
+/* Landing page intro: circular photo left, text right */
+.intro {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.intro-photo {
+  flex: 0 0 180px;
+}
+
+.intro-photo img {
+  width: 180px;
+  height: 180px;
+  margin: 0;
+  border-radius: 50%;
+  object-fit: cover;          /* crops to the circle instead of squashing */
+  object-position: center 20%; /* nudge up/down to center your face */
+  box-shadow: 0 2px 12px rgb(0 0 0 / 15%);
+}
+
+.intro-text {
+  flex: 1 1 320px;   /* wraps below the photo on narrow screens */
+  min-width: 0;
+}
+
+.intro-text p:first-child {
+  font-size: 1.05rem;
+  opacity: 0.75;      /* makes the affiliation line read as a subtitle */
+  margin-bottom: 0.75rem;
+}
