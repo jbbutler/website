@@ -16,4 +16,4 @@ site:
   template: book-theme
   options:
     style: ./style.css
-    favicon: ./images/favicon.svg
+    favicon: ./images/favicon.png
