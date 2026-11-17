@@ -2,14 +2,19 @@
 ---
 *For a downloadable pdf version, see [here](https://drive.google.com/file/d/16rGE9Yg4JGEVEhzLl-ptPBpLayvX6Roi/view?usp=drive_link).*
 
+## Professional Experience
+**Thayer School of Engineering at Dartmouth College**  
+    *Postdoctoral Researcher,* Begin October 2026 (Ongoing)  
+    *Advisor:* Klaus Keller
+
 ## Education													  
 **University of California, Berkeley**  
-    *Statistics (PhD Candidate),* Begin August 2021, Expected May 2026  
+    *PhD in Statistics,* Begin August 2021, Graduated August 2026  
     *Advisors:* Jon McAuliffe (*Department of Statistics, UC Berkeley; The Voleon Group*),   
                     Fernando Pérez (*Department of Statistics, UC Berkeley*)
 
 **The College, University of Chicago**  
-    *Physics, Statistics* *(BA; double major)*, Begin September 2017, Graduated June 2021
+    *BA in Physics and Statistics*, Begin September 2017, Graduated June 2021
 
 ## Research Projects												  
 ***\***ongoing*  
@@ -22,13 +27,13 @@
 
 **Pérez Group, University of California, Berkeley**  
       *Associating storm characteristics with extreme impacts of Antarctic atmospheric rivers**\****  
-      	*People: Michelle Maclennan, Fernando Pérez, Jon Mcauliffe*
+      	*People: Michelle Maclennan, Fernando Pérez, Jon McAuliffe*
 
 * Apply extreme value statistical methodology to quantitatively explore drivers of the most extreme atmospheric river-induced precipitation and temperature events in Antarctica  
 * Develop specialized clustering strategy to catalog storm events, and develop both cloud-based and local workflows to extract weather/climate conditions from terabytes of MERRA-2 reanalysis data  
 * Promote GitHub-based workflows to present and document data products, using modern open science software tools ([example site](https://jbbutler.github.io/ar-catalog-demo/); [example GitHub repo](https://github.com/jbbutler/ar-catalog-demo))
 
-     *Simulating impact of extreme temperature swings on ice melt**\****  
+     *Simulating impact of extreme temperatures on ice melt**\****  
       	*People: Fernando Pérez*
 
 * Integrate physical and statistical models to explore the time-to-melt distribution of an idealized block of ice subjected to stochastically generated temperatures with varying extremal properties, informing how global warming-induced climate change may exacerbate polar melt
@@ -42,13 +47,13 @@
     *Software pipelines for AI-ready data at NERSC*  
         *People: Wahid Bhimji, Chris Harris*
 
-* Develop software to catalog AI-ready datasets at NERSC for public use, provide distributed data loaders, and test new job monitoring software, all with the goal of making it easier to find data for AI jobs at NERSC and lower technical barriers to running jobs on such data
+* Develop software to catalog AI-ready datasets at NERSC for public use, provide templates of distributed data loaders, and test new job monitoring software, all with the goal of making it easier to find data for training AI models at NERSC and lower technical barriers to running jobs on such data
 
 **Weare Group, University of Chicago/NYU Collaboration**  
       *Analysis of a stochastic atmospheric blocking model using transition path theory*   
       	*People: Justin Finkel, Dorian Abbot, Jonathan Weare;* (6/2020 – 8/2021)
 
-* Applied transition path theory, a theoretical math framework for analyzing dynamical systems, to stochastic atmospheric models.   
+* Applied transition path theory, a theoretical math framework for analyzing dynamical systems, to stochastic atmospheric models  
 * Predict and characterize dynamics of atmospheric blocks, a phenomenon that can hold weather systems in place and cause heat waves, droughts, or floods
 
 **Cosmological Physics and Advanced Computing Group, Argonne National Laboratory**  
@@ -80,7 +85,7 @@
 * Organize yearly SGSA t-shirt design contest
 
 **Emmett Till Math and Science Academy, Chicago Public Schools,** Chicago, IL  
-*Teaching Aide,* October 2017 – June 2021
+*Tutor/Teaching Aide,* October 2017 – June 2021
 
 * Worked with the same middle school math teacher for all four years of undergrad  
 * Helped strategize lesson plans for students needing extra assistance in building their math skills  
@@ -90,12 +95,17 @@
 **University of California, Berkeley**
 
 * *Collaborative and Reproducible Data Science (Stat 159/259)*; TA/GSI; Fall 2025, [course site](https://stat159.berkeley.edu/fall-2025/)  
-* *Berkeley Statistics Computational Skills Workshop*; Tutor; August 18-22, 2025, [course site](https://computing.stat.berkeley.edu/compute-skills-2025/)  
+  * Upper division undergraduate/graduate course; covers tools and workflows for open and reproducible science, like GitHub, MyST, JupyterHub, Binder, and unit testing  
+* *Berkeley Statistics Computational Skills Workshop*; Tutor; August 19-23, 2024, [course site](https://computing.stat.berkeley.edu/compute-skills-2024/); August 18-22, 2025, [course site](https://computing.stat.berkeley.edu/compute-skills-2025/)  
+  * Workshop for incoming statistics PhD and MA students; covers the shell, python basics, GitHub, and statistical computing concepts like random number generation and floating point precision  
 * *Introduction to Time Series (Stat 153/248)*; TA/GSI; Spring 2025, [course site](https://stat153.berkeley.edu/spring-2025/)  
-* *Statistical Models: Theory and Application (Stat 215B);* TA/GSI;  Spring 2025  
-* *Berkeley Statistics Computational Skills Workshop*; Tutor; August 19-23, 2024, [course site](https://computing.stat.berkeley.edu/compute-skills-2024/)  
+  * Upper division undergraduate/graduate course; covers theory and application of time series models, including AR, MA, ARMA, ARIMA, change-point models, RNNs, and LSTMs  
+* *Statistical Models: Theory and Application (Stat 215B);* TA/GSI; Spring 2025  
+  * Core course for PhD students in statistics; covers theory and application of survival analysis, causal inference for experiments and observational studies, large scale hypothesis testing, and the bootstrap  
 * *Concepts of Statistics (Stat 135);* TA/GSI; Spring 2022; Fall 2023  
-* *Principles & Techniques of Data Science (Data 100\)*; TA/GSI; Fall 2022, [course site](https://ds100.org/fa22/)
+  * Upper division undergraduate course in mathematical statistics, covering estimation theory (MLE, MoM, efficiency, etc.), asymptotics, regression, and Bayesian methods  
+* *Principles & Techniques of Data Science (Data 100/C200)*; TA/GSI; Fall 2022, [course site](https://ds100.org/fa22/)  
+  * Upper division undergraduate/graduate course; covers data science software packages like pandas, data visualization, and analysis techniques like regularization, feature engineering, and dimension-reduction, all applied to hands-on data projects
 
 **University of Chicago**
 
@@ -108,17 +118,20 @@
 
 ## Presentations												
 
-* Butler J., Maclennan, M., Pérez, F., McAuliffe, J. 2025\. *Cloud-based Workflows for Antarctic Atmospheric Rivers: Successes and Challenges.* (Oral) AGU Fall Meeting 2025\. ([Zenodo](https://doi.org/10.5281/zenodo.17926811))  
-* Butler J., Maclennan, M., Pérez, F., McAuliffe, J. 2025\. *Linking Antarctic Atmospheric River Characteristics with Their Landfalling Impacts.* (Oral) AGU Fall Meeting 2025\. ([Zenodo](https://doi.org/10.5281/zenodo.17926794))  
-* Butler J., Maclennan, M., McAuliffe, J., Pérez, F. 2024\. *Quantifying the association between Antarctic atmospheric river characteristics and their impacts using extreme-value statistics.* (Talk) 3rd Antarctic Atmospheric Rivers Group workshop. ([Zenodo](https://doi.org/10.5281/zenodo.17926777))  
-* Butler, J., Pérez, F. 2025\. *Using GitHub for community workflows, from code to publication: Using ARTMIP data as a test case.* (Website demo) ARTMIP Future Directions Telecon. ([Site link](https://jbbutler.github.io/ar-catalog-demo/)).  
-* Butler J., Maclennan, M., McAuliffe, J., Pérez, F. 2024\. *Quantifying the association between Antarctic atmospheric river characteristics and their impacts using extreme-value statistics.* (Poster) AGU Fall Meeting 2024\. ([Zenodo](https://doi.org/10.5281/zenodo.17926627))  
-* Butler J., McAuliffe, J., Wehner, M. 2023\. *Quantifying Uncertainty in the Rarity of Extreme Multivariate Weather and Climate Events.* (Poster) AGU Fall Meeting 2023\. ([Zenodo](https://doi.org/10.5281/zenodo.17926399))  
-* Butler, J., Finkel, J., Weare, J. 2020\. *Analysis of a Stochastic Atmospheric Blocking Model using Transition Path Theory*. (Poster). 2020 Midstates Undergraduate Research Symposium in the Physical Sciences, Math, and Computer Science.  
-* Butler, J. 2019\. *Probing the Nature of Superconductivity in Mechanically-Exfoliated Thin Film MoS2*. (Poster). University of Chicago’s 6th Annual Undergraduate Research Symposium.  
-* Butler, J. 2019\. *Probing the Nature of Superconductivity in Mechanically-Exfoliated Thin Film MoS2*. (Talk). International Institute of Nanotechnology REU Closing Symposium.
+* **Butler J.**, Pérez, F. 2026\. *Publishing Computational Projects with MyST.* (Oral) [Connected Data Products Hackdays](https://englacial.org/pages/2026-hackdays.html), hosted by Englacial and the Berkeley Institute for Data Science.  
+* **Butler J.**, Maclennan, M., Pérez, F., McAuliffe, J. 2025\. *Cloud-based Workflows for Antarctic Atmospheric Rivers: Successes and Challenges.* (Oral) AGU Fall Meeting 2025\. ([Zenodo](https://doi.org/10.5281/zenodo.17926811))  
+* **Butler J.**, Maclennan, M., Pérez, F., McAuliffe, J. 2025\. *Linking Antarctic Atmospheric River Characteristics with Their Landfalling Impacts.* (Oral) AGU Fall Meeting 2025\. ([Zenodo](https://doi.org/10.5281/zenodo.17926794))  
+* **Butler J.**, Maclennan, M., McAuliffe, J., Pérez, F. 2024\. *Quantifying the association between Antarctic atmospheric river characteristics and their impacts using extreme-value statistics.* (Talk) 3rd Antarctic Atmospheric Rivers Group workshop. ([Zenodo](https://doi.org/10.5281/zenodo.17926777))  
+* **Butler, J.**, Pérez, F. 2025\. *Using GitHub for community workflows, from code to publication: ARTMIP data as a test case.* (Website demo) ARTMIP Future Directions Telecon. ([Site link](https://jbbutler.github.io/ar-catalog-demo/)).  
+* **Butler J.**, Maclennan, M., McAuliffe, J., Pérez, F. 2024\. *Quantifying the association between Antarctic atmospheric river characteristics and their impacts using extreme-value statistics.* (Poster) AGU Fall Meeting 2024\. ([Zenodo](https://doi.org/10.5281/zenodo.17926627))  
+* Zhuo, J., Liu, S., **Butler, J.**, Baxter, I., Hassanzadeh, P., Weare, J., Abbot, D. S. 2024\. *Do AI Weather Forecasts show Flow-Dependency over the Atlantic?* (Poster) AGU Fall Meeting 2024\.  
+* **Butler J.**, McAuliffe, J., Wehner, M. 2023\. *Quantifying Uncertainty in the Rarity of Extreme Multivariate Weather and Climate Events.* (Poster) AGU Fall Meeting 2023\. ([Zenodo](https://doi.org/10.5281/zenodo.17926399))
+* **Butler, J.**, Finkel, J., Weare, J. 2020\. *Analysis of a Stochastic Atmospheric Blocking Model using Transition Path Theory*. (Poster). 2020 Midstates Undergraduate Research Symposium in the Physical Sciences, Math, and Computer Science.  
+* **Butler, J.** 2019\. *Probing the Nature of Superconductivity in Mechanically-Exfoliated Thin Film MoS2*. (Poster). University of Chicago’s 6th Annual Undergraduate Research Symposium.  
+* **Butler, J.** 2019\. *Probing the Nature of Superconductivity in Mechanically-Exfoliated Thin Film MoS2*. (Talk). International Institute of Nanotechnology REU Closing Symposium.
 
 ## Honors														  
+**Outstanding Graduate Student Instructor (OGSI) Award**, UC Berkeley, 2026  
 **H2H8 Research Grant Awardee**, 2025  
 **Two Sigma PhD Fellowship Recipient**, 2024  
 **Magna Cum Laude**, The College, University of Chicago, 2021  
