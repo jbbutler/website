@@ -42,4 +42,16 @@ collaborations, or to talk through mutual research interests!
 [jbbutler](https://github.com/jbbutler)
 :::
 
+:::{div}
+:class: contact-card
+```{image} ./images/icon-orcid.svg
+:alt: ORCID icon
+:class: contact-icon
+```
+
+<span class="contact-label">ORCID</span>
+
+[0000-0001-9792-2703](https://orcid.org/0000-0001-9792-2703)
+:::
+
 ::::

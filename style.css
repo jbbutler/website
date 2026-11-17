@@ -35,10 +35,10 @@
 /* ---------- Contact page: badge cards ---------- */
 .contact-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1.25rem;
   margin: 2rem 0;
-  max-width: 760px;
+  max-width: 560px;   /* caps the row at two cards, so four cards form a 2x2 */
 }
  
 .contact-card {
