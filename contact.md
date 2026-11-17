@@ -30,4 +30,16 @@ collaborations, or to talk through mutual research interests!
 [James (Jimmy) Butler](https://www.linkedin.com/in/james-butler-5034a019a/)
 :::
 
+:::{div}
+:class: contact-card
+```{image} ./images/icon-github.svg
+:alt: GitHub icon
+:class: contact-icon
+```
+
+<span class="contact-label">GitHub</span>
+
+[jbbutler](https://github.com/jbbutler)
+:::
+
 ::::
